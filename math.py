@@ -1,6 +1,7 @@
-#add implementation
+#add implementaton
 def add(x,y):
    pass
+   #substract implementaton
 def substract(x,y):
    retrun x-y
 #multiply
